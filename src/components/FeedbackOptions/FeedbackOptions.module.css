@@ -1,0 +1,18 @@
+.btn {
+  font-size: 14px;
+  text-decoration: none;
+  cursor: pointer;
+  display: block;
+  width: 90px;
+  font-weight: bold;
+  margin: 20px auto;
+  text-align: center;
+  padding: 1px 5px;
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  border-radius: 4px;
+}
+
+.btn:hover {
+  background: -webkit-linear-gradient(#08ea4843, #08ea4874);
+}
