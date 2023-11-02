@@ -57,6 +57,5 @@ class App extends Component {
     );
   }
 }
-// dgfdsfgsd
 
 export default App;
